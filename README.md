@@ -14,3 +14,4 @@ utilisateur respectant à la fois l’ergonomie et l’accessibilité à la prog
 APIs côté serveurs et la gestion des bases de données. 
 De plus s’assurer de la stabilité des produits ainsi que leurs maintenances
  et mises à jour.  
+Email: redouane.taleb1@gmail.com
