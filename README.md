@@ -1,14 +1,8 @@
-Nom: redouane taleb
 
+Je suis passionné par les technologies de l'information et j'ai un intérêt particulier pour la conception et la programmation de sites web. J'ai acquis des compétences en langages de programmation tels que HTML, CSS et JavaScript, ainsi qu'en utilisant des frameworks tels que React. J'ai également des connaissances en PHP et en utilisant le framework Laravel.
 
-Je suis passionné par les nouvelles technologies et solutions informatiques,
-je m’intéresse en particulier à la conception et à la programmation de sites et applications web.
+Je suis un développeur web cherchant à acquérir de nouvelles compétences et à travailler en collaboration avec une équipe de professionnels expérimentés afin d'élargir mes connaissances et de progresser dans ma carrière. Je suis capable de travailler sur des interfaces utilisateur ergonomiques et accessibles, ainsi que de développer des fonctionnalités de back-end.
 
-Je suis aussi intéressé par le design, la conception, la planification et la création de sites web modernes et inovatifs, ainsi par la conception et le developpement des applications mobiles.
-Je maitrise différents Langage de programmation (HTML, CSS, JAVASCRIPT, PHP, JAVA), aussi des frameworks à en citer  REACT, PHP LARAVEL.
-
-En tant que développer web, je souhaite faire de la programmation web full stuck. Je suis tant intéressé par le front et back end. créer des sites web dans leurs enssemble pour différents secteurs d’activité et personas, allant de la création des interfaces utilisateur respectant à la fois l’ergonomie et l’accessibilité à la programmation des 
-APIs côté serveurs et la gestion des bases de données. 
-De plus s’assurer de la stabilité des produits ainsi que leurs maintenances et mises à jour. 
+Je suis motivé et enthousiaste à l'idée de contribuer à des projets passionnants de développement web et d'apprendre de nouvelles technologies et méthodologies de développement.
  
 Email: redouane.taleb1@gmail.com
