@@ -1,5 +1,16 @@
-Passionné par les technologies de l'information, je me suis spécialisé dans la conception et la programmation de sites web. Ayant acquis des compétences en langages de programmation tels que HTML, CSS et JavaScript, j'ai également une bonne maîtrise des frameworks tels que React et Vue. Par ailleurs, je possède des connaissances en PHP et une expérience avec le framework Laravel.
+Développeur Web Full-Stack | Laravel, Vue.js, Node.js, et Intégration d'IA
 
-En tant que développeur web, je suis constamment à la recherche de nouvelles compétences et d'opportunités pour travailler en collaboration avec des professionnels expérimentés. Cela me permettrait d'élargir mes connaissances et de progresser dans ma carrière. Je suis capable de créer des interfaces utilisateur à la fois ergonomiques et accessibles, tout en développant des fonctionnalités back-end performantes.
+Passionné par le développement web, je conçois et développe des applications robustes et performantes en utilisant des technologies modernes telles que Laravel, Vue.js, Node.js, et Tailwind CSS. Mon projet personnel, Interviewlike.com, m'a permis de combiner mes compétences en intégration d'API d'IA (Google Cloud, OpenAI) avec des microservices et des solutions de communication en temps réel via WebSockets. Je me spécialise dans le développement full-stack, couvrant à la fois les aspects front-end et back-end, tout en appliquant des pratiques de développement agiles avec Git et Scrum. Toujours curieux d'apprendre, je suis en quête de nouveaux défis pour continuer à innover et à exceller.
 
-Motivé et enthousiaste, je suis impatient de participer à des projets de développement web stimulants et d'explorer de nouvelles technologies et méthodologies. Je suis convaincu que ma passion pour la programmation et mon expérience dans le domaine feront de moi un membre précieux pour n'importe quelle équipe.
+🔧 Technologies :
+
+Frontend : HTML, CSS, JavaScript, Vue.js, React.js, Tailwind CSS
+Backend : PHP, Laravel, Node.js
+Bases de données : MySQL
+APIs : RESTful APIs, Google Cloud APIs, OpenAI API
+Autres : Git, WebSockets, Microservices, PayPal Integration, Agile (Scrum)
+
+💼 Projets notables :
+
+Interviewlike.com : Plateforme de simulation d'entretiens et de génération de documents (CVs, lettres de motivation), intégrant des IA en temps réel avec Google et OpenAI.
+Toujours prêt à collaborer sur des projets innovants ou à partager mes connaissances, n'hésitez pas à me contacter via GitHub !
