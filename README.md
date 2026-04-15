@@ -1,6 +1,5 @@
-Développeur Web Full-Stack | Laravel, Vue.js, Node.js | Architectures Modernes & Intégration d’IA
+Full-Stack Web Engineer | Laravel, PHP, Nuxt | Modern Architectures & System Design
 
-Passionné par le développement web moderne, je conçois et développe des applications robustes, modulaires et performantes. J’utilise un écosystème maîtrisé autour de Laravel, Vue.js, Node.js, et des architectures propres inspirées du DDD, du CQRS, et du découpage en microservices.
+I build robust, modular, and scalable web applications using Laravel (PHP) and Nuxt, with a strong focus on clean architecture and system design principles. My approach emphasizes maintainable codebases structured around DDD concepts, CQRS patterns, and modular system boundaries.
 
-Je porte une attention particulière à la qualité du code, à la scalabilité, et à l’intégration fluide de services externes (Google Cloud, OpenAI, PayPal…).
-Mon travail inclut aussi la conception de monorepos structurés, l’implémentation de communications temps réel via WebSockets, et la création de packages réutilisables.
+I pay close attention to code quality, scalability, and reliable integration with external services such as cloud platforms, authentication providers, and payment systems. My work also involves designing monorepo architectures, building reusable packages, and implementing real-time communication features when needed.
