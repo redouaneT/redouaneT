@@ -1,5 +1,7 @@
-Full-Stack Web Engineer | Laravel, PHP, Nuxt | Modern Architectures & System Design
+Full-Stack Web Engineer | Laravel, PHP, Nuxt | Scalable Web Platforms
 
-I build robust, modular, and scalable web applications using Laravel (PHP) and Nuxt, with a strong focus on clean architecture and system design principles. My approach emphasizes maintainable codebases structured around DDD concepts, CQRS patterns, and modular system boundaries.
+I design and build robust, modular, and scalable web applications using Laravel (PHP) and Nuxt. My work is grounded in strong system design practices, with an emphasis on maintainable codebases, clear boundaries, and long-term scalability.
 
-I pay close attention to code quality, scalability, and reliable integration with external services such as cloud platforms, authentication providers, and payment systems. My work also involves designing monorepo architectures, building reusable packages, and implementing real-time communication features when needed.
+I value code quality, performance, and reliable integration with external services such as cloud platforms, authentication providers, and payment systems. I also work with monorepo architectures, reusable packages, and real-time features when needed.
+
+While I have solid experience with clean architecture, DDD, and CQRS concepts, I remain pragmatic and adaptable—comfortable working with a wide range of architectures, patterns, and team conventions to deliver the best solution for each project.
